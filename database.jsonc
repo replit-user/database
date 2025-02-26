@@ -1,0 +1,6 @@
+//this is a database that the command-line based store for free apps that I'm working on in python will automatically edit
+//if you download the program then you must have git installed
+{
+  "id":1
+  "games":[] //this will update automatically
+}
